@@ -9,7 +9,7 @@
 		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
 		<property name="hibernate.connection.url">jdbc:mysql://localhost/servletDemo</property>
 		<property name="hibernate.connection.username">root</property>
-		<property name="hibernate.connection.password">admex281289iiLL</property>
+		<property name="hibernate.connection.password">root</property>
 		<property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
 
 		<property name="hibernate.jdbc.batch_size">20</property>
